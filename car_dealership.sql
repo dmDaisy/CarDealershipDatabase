@@ -119,7 +119,7 @@ INSERT INTO vehicles (VIN, year, make, model, type, color, mileage, price, SOLD)
 INSERT INTO inventory (dealership_id, VIN) VALUES
 (1, '1HGCM82633A123456'),
 (1, '2T1BURHE0JC654321'),
-(2, '3FA6P0G73HR789123'),
+(1, '3FA6P0G73HR789123'),
 (2, '1C4RJFAG0FC543210'),
 (3, '5NPE24AF8FH112233');
 
